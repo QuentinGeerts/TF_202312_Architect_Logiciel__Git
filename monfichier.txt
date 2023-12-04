@@ -1,3 +1,3 @@
 Nouveau texte 2
 Nouveauté de Github
-Nouveau text depuis le PC
+Nouveau text depuis le PC et Github
